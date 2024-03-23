@@ -4,5 +4,8 @@ func(){
     // do something
 }
 2222
-
+// do something
+func2(){
+    do something
+}
 1111
